@@ -3,38 +3,38 @@
 
 ### Iniciar projeto com ViteJS
 
-[X] Vídeo
+- [X] Vídeo
 
-[X] [Apostila](modulo-01-exercicio-01.md)
+- [X] [Apostila](modulo-01-exercicio-01.md)
 
 Explicar e mostrar como saber mais sobre o ViteJS
 
 ### Adiciona ESLint no projeto
 
-[X] Vídeo
+- [X] Vídeo
 
-[X] [Apostila](modulo-01-exercicio-02.md)
+- [X] [Apostila](modulo-01-exercicio-02.md)
 
 ### Adiciona Prettier no Projeto
 
-[X] Vídeo
+- [X] Vídeo
 
-[X] [Apostila](modulo-01-exercicio-03.md)
+- [X] [Apostila](modulo-01-exercicio-03.md)
 
 ### Pasta .vscode para um mundo dev mais feliz
 
-[X] Vídeo
+- [X] Vídeo
 
-[X] [Apostila](modulo-01-exercicio-04.md)
+- [X] [Apostila](modulo-01-exercicio-04.md)
 
 
 #### Para saber mais Módulo 01
 
 ### ViteJS VS CRA
 
-[X] Vídeo
+- [X] Vídeo
 
-[X] [Apostila](modulo-01-exercicio-05.md)
+- [X] [Apostila](modulo-01-exercicio-05.md)
 
 Mostrar as diferenças entre o ViteJs e CRA de forma feliz
 
@@ -42,30 +42,38 @@ Mostrar as diferenças entre o ViteJs e CRA de forma feliz
 
 ### Criar um component
 
-[] Vídeo
+- [ ] Vídeo
 
-[] Apostila
+- [ ] Apostila
 
 ### Adiciona Husky e o lint-staged
 
-[] Vídeo
+- [ ] Vídeo
 
-[] Apostila
+- [ ] Apostila
 
 ### Adiciona Gitmoji
 
-[] Vídeo
+- [ ] Vídeo
 
-[] Apostila
+- [ ] Apostila
 
 ### Primeiro Commit
 
-[] Vídeo
+- [ ] Vídeo
 
-[] Apostila
+- [ ] Apostila
 
 ### Escreva o README.md do projeto
 
-[] Vídeo
+- [ ] Vídeo
 
-[] Apostila
+- [ ] Apostila
+
+
+## Módulo 03
+
+Trabalharemos na pasta GlobalStyles, onde ficará organizada com mais 4 subpastar: Settings, Generic, Elements e tools
+
+## Módulo 04
+Trabalharemos com Styles Components, migrando nosso component escrito com CSS para Styles components e adicionar o Storybook
