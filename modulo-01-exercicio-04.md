@@ -89,4 +89,4 @@ Depois de efetuar isso o arquivo `extensions.json` ficara conforme a baixo:
 }
 ```
 
-[<< Exercício anterior](modulo-01-exercicio-03.md)  [HOME](README.md)  [Para saber mais](module-01-exercicio-05.md)
+[<< Exercício anterior](modulo-01-exercicio-03.md)  [HOME](README.md)  [Próximo exercício](module-01-exercicio-05.md)

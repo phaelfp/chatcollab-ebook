@@ -1,4 +1,5 @@
 # Base para React Feliz
+
 ## Módulo 01
 
 ### Iniciar projeto com ViteJS
@@ -27,30 +28,11 @@ Explicar e mostrar como saber mais sobre o ViteJS
 
 - [X] [Apostila](modulo-01-exercicio-04.md)
 
-
-#### Para saber mais Módulo 01
-
-### ViteJS VS CRA
+### Adiciona Husky e o lint-staged
 
 - [X] Vídeo
 
 - [X] [Apostila](modulo-01-exercicio-05.md)
-
-Mostrar as diferenças entre o ViteJs e CRA de forma feliz
-
-## Módulo 02
-
-### Criar um component
-
-- [ ] Vídeo
-
-- [ ] Apostila
-
-### Adiciona Husky e o lint-staged
-
-- [ ] Vídeo
-
-- [ ] Apostila
 
 ### Adiciona Gitmoji
 
@@ -58,22 +40,18 @@ Mostrar as diferenças entre o ViteJs e CRA de forma feliz
 
 - [ ] Apostila
 
-### Primeiro Commit
+### Envia projeto pro Github
 
 - [ ] Vídeo
 
 - [ ] Apostila
 
-### Escreva o README.md do projeto
+## Para saber mais Módulo 01
 
-- [ ] Vídeo
+### ViteJS VS CRA
 
-- [ ] Apostila
+- [X] Vídeo
 
+- [X] [Apostila](modulo-01-extra-01.md)
 
-## Módulo 03
-
-Trabalharemos na pasta GlobalStyles, onde ficará organizada com mais 4 subpastar: Settings, Generic, Elements e tools
-
-## Módulo 04
-Trabalharemos com Styles Components, migrando nosso component escrito com CSS para Styles components e adicionar o Storybook
+Mostrar as diferenças entre o ViteJs e CRA de forma feliz
