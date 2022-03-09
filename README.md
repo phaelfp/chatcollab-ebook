@@ -36,15 +36,15 @@ Explicar e mostrar como saber mais sobre o ViteJS
 
 ### Adiciona Gitmoji
 
-- [ ] Vídeo
+- [X] Vídeo
 
-- [ ] Apostila
+- [X] [Apostila](modulo-01-exerciio-06.md)
 
 ### Envia projeto pro Github
 
-- [ ] Vídeo
+- [X] Vídeo
 
-- [ ] Apostila
+- [X] [Apostila](modulo-01-exerciio-07.md)
 
 ## Para saber mais Módulo 01
 
