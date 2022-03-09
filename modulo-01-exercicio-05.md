@@ -228,3 +228,7 @@ Untrack files:
 Executamos o `git add .` para adicionaro nosso *.eslintignore* e depois podemos dar o `git commit -m "First commit"`
 
 Vemos que agora sim o Eslint rodou sem erros e garantimos que todos os arquivos que serão comitados estão seguindo o padrão que definimos no projeto.
+
+|Exercício anterior| HOME |Próximo exercício|
+|:-|:----:|----------------:|
+|[Pasta .vscode para um mundo dev mais feliz](modulo-01-exercicio-04.md)|[Readme.md](README.md)|[Adiciona Gitmoji](modulo-01-exercicio-06.md)|

@@ -89,4 +89,6 @@ Depois de efetuar isso o arquivo `extensions.json` ficara conforme a baixo:
 }
 ```
 
-[<< Exercício anterior](modulo-01-exercicio-03.md)  [HOME](README.md)  [Próximo exercício](module-01-exercicio-05.md)
+|Exercício anterior| HOME |Próximo exercício|
+|:-|:----:|----------------:|
+|[Adiciona Prettier no Projeto](modulo-01-exercicio-03.md)|[Readme.md](README.md)|[Adiciona Husky e o lint-staged](modulo-01-exercicio-05.md)|

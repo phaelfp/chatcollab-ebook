@@ -101,4 +101,6 @@ A saida do último comando é exibida a baixo e no informa o endereço e porta q
   ready in 472ms.
 ```
 
-[HOME](README.md)  [Próximo exercício>>](modulo-01-exercicio-02.md)
+| | HOME |Próximo exercício|
+|-|:----:|----------------:|
+| |[Readme.md](README.md)|[Adiciona ESLint no projeto](modulo-01-exercicio-02.md)|

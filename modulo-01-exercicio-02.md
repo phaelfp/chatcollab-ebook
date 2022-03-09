@@ -172,4 +172,7 @@ Vá para a opção de extensões `(Ctrl+Shift+X)` representado pelo icone ![exte
 
 Ainda temos que resolver um problema mais isso fica para a próxima aula
 
- [<<Exercício anterior](modulo-01-exercicio-01.md)  [HOME](README.md)  [Próximo exercício>>](modulo-01-exercicio-03.md)
+ 
+ |Exercício anterior| HOME |Próximo exercício|
+|:-|:----:|----------------:|
+|[Iniciar projeto com ViteJS](modulo-01-exercicio-01.md)|[Readme.md](README.md)|[Adiciona Prettier no Projeto](modulo-01-exercicio-03.md)|

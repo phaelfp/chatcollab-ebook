@@ -101,4 +101,6 @@ O que isso está fazendo para você, se você digitar `(Ctrl + ,)` vai abrir a t
 
 Com isso sempre que salvamos o arquivo ele utiliza o `Prettier` para formatar-lo
 
-[<< Exercício anterior](modulo-01-exercicio-02.md)  [HOME](README.md)  [Próximo exercício >>](modulo-01-exercicio-04.md)
+|Exercício anterior| HOME |Próximo exercício|
+|:-|:----:|----------------:|
+|[Adiciona ESLint no projeto](modulo-01-exercicio-02.md)|[Readme.md](README.md)|[Pasta .vscode para um mundo dev mais feliz](modulo-01-exercicio-04.md)|
